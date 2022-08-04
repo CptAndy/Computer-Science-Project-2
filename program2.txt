@@ -1,0 +1,2 @@
+Using seed of 0
+on a linux compiler
